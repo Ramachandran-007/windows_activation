@@ -6,7 +6,7 @@ This repository contains a script that needs to be run as an administrator to wo
 ## Instructions to run the script as an Administrator
 
 1. **Download the script file**:  
-   Download the script from this repository by clicking [here]([link-to-your-script-file](https://github.com/Ramachandran-007/windows_activation.git)).
+   Download the script from this repository.
 
 2. **Right-click the script file**:  
    After downloading, locate the script on your system. Right-click on the file.
