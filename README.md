@@ -25,16 +25,6 @@ This batch script automates the activation of Windows 10 using KMS (Key Manageme
 6.  **Error Handling:** It handles cases where the server is busy or the Windows version is not supported.
 7.  **Cleanup:** It clears any previous KMS settings and keys.
 
-**Usage:**
-
-1.  Save the script as a `.bat` file (e.g., `activate.bat`).
-2.  Run the script as administrator.
-3.  Follow the on-screen instructions.
-
-# My Script Repository
-
-This repository contains a script that needs to be run as an administrator to work properly on Windows.
-
 ## Instructions to run the script as an Administrator
 
 1. **Download the script file**:  
